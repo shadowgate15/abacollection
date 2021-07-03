@@ -129,7 +129,7 @@
     "striptags": "^3.1.1",
     "superagent": "^6.1.0",
     "sweetalert2": "^11.0.16",
-    "titleize": "^2.1.0",
+    "titleize": "^3.0.0",
     "uncaught": "^0.0.5",
     "validator": "^13.1.1",
     "zxcvbn": "^4.4.2"
