@@ -49,7 +49,7 @@
     "@sidoshi/random-string": "^1.0.0",
     "@slack/web-api": "^6.2.4",
     "@tkrotoff/bootstrap-floating-label": "^0.8.0",
-    "apexcharts": "^3.27.1",
+    "apexcharts": "^3.27.2",
     "array-join-conjunction": "^1.0.0",
     "axe": "^8.0.0",
     "basic-auth": "^2.0.1",
